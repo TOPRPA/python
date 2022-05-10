@@ -8,6 +8,6 @@ for string in 'content':
     print (string)
 
 print('\n迴圈結束')
-print('迴圈執行了 %d 次' %count)
+print('迴圈執行了 %d 次' %count) #%d用做整數位的佔位符, %s為字串佔位符
 
 #https://medium.com/@chiayinchen/1-%E5%88%86%E9%90%98%E6%90%9E%E6%87%82-python-%E8%BF%B4%E5%9C%88%E6%8E%A7%E5%88%B6-break-continue-pass-be290cd1f9d8
